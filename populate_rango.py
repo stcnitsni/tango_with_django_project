@@ -13,9 +13,9 @@ def populate():
 # through each data structure, and add the data to our models.
 
     python_pages = [
-        {'title': 'Official Python Tutorial','url':'http://docs.python.org/3/tutorial/', 'views':2000},
-        {'title':'How to Think like a Computer Scientist','url':'http://www.greenteapress.com/thinkpython/', 'views':572},
-        {'title':'Learn Python in 10 Minutes','url':'http://www.korokithakis.net/tutorials/python/', 'views':1200} ]
+        {'title': 'Official Python Tutorial','url':'http://docs.python.org/3/tutorial/', 'views':122},
+        {'title':'How to Think like a Computer Scientist','url':'http://www.greenteapress.com/thinkpython/', 'views':5},
+        {'title':'Learn Python in 10 Minutes','url':'http://www.korokithakis.net/tutorials/python/', 'views':1} ]
 
     django_pages = [
         {'title':'Official Django Tutorial','url':'https://docs.djangoproject.com/en/2.1/intro/tutorial01/', 'views':1400},
